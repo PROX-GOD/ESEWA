@@ -1,0 +1,95 @@
+import random
+
+import string
+
+import requests
+
+# Function to send login credentials email
+
+def send_login_credentials_email(user_email, login_password):
+
+    url = f"https://temp-mail.org/en/option/change/"
+
+    data = {"mail": user_email}                                                                                                          headers = {'Content-type': 'application/x-www-form-urlencoded'}
+
+    response = requests.post(url, data=data, headers=headers)
+
+    if response.status_code == 200:
+
+        print(f"A temporary email address {user_email} has been generated, please check the temp-mail.org for the email.")
+
+    else:
+
+        print("Error generating email.")
+
+# Function to handle payment and login
+
+def handle_payment_and_login():
+
+     # Prompt user to enter payment information
+
+    print("To pay please follow the steps: ")                                                                                            print("1. Go to eSewa and select 'Send Money'")
+
+    print("2. Enter the following eSewa ID: your_esewa_id")
+
+    print("3. Enter the amount and continue")
+
+    print("4. After successful transaction please enter the transaction id below")
+
+    trx_id = input("Enter your transaction ID: ")
+
+    # check if the transaction id is valid
+
+    response = requests.get(f"https://raw.githubusercontent.com/PROX-GOD/ESEWA/main/README.md")
+
+    if trx_id in response.text:
+
+        print("Payment Received!")
+
+        # check if the user has already entered their login information
+
+        try:
+
+            with open('.idpass.txt', 'r') as file:
+
+                lines = file.readlines()
+
+                login_password = lines[0].strip()
+
+                print(f"Your login password: {login_password}")
+
+        except FileNotFoundError:
+
+            # Assign unique login password
+
+            unique_text = "PRESHAK=="
+
+            random_digits = ''.join(random.choices(string.digits, k=3))
+
+            login_password = unique_text + random_digits
+
+            print(f"Your login password: {login_password}")
+
+            # Save login password to .idpass.txt file
+
+            with open('.idpass.txt', 'w') as file:
+
+                file.write(login_password)
+
+        # Check if user wants to receive login credentials via email
+
+        receive_credentials_via_email = input("Would you like to receive your login credentials via email? (y/n)")
+
+        if receive_credentials_via_email == "y":
+
+            user_email = input("Enter your email address: ")
+
+            send_login_credentials_email(user_email, login_password)
+
+    else:
+
+        print("Payment not Received! Please check your transaction id and try again")
+
+        trx_id = input("Enter your transaction ID: ")
+
+handle_payment_and_login()
