@@ -24,9 +24,7 @@
 
       git clone https://github.com/PROX-GOD/LAMP
 
-  
 
-  
 
       cd prohack 
 
@@ -102,7 +100,6 @@
 # MENU CRACK
 
 <a href="https://ibb.co/9tNbybz"><img src="https://i.ibb.co/q5dNmNX/Screenshot-20230521-111735-Termux.jpg" alt="Screenshot-20230521-111735-Termux" border="0"></a>
- 
 
  # MENU FILE MAKE
 <a href="https://ibb.co/7vNcwVZ"><img src="https://i.ibb.co/VVpy7Dz/1684737867970.jpg" alt="1684737867970" border="0"></a>
