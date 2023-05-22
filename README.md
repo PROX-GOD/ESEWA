@@ -1,123 +1,117 @@
-#prohack #fbcrack #bruteforce #facebook #mbf 
+#PROX #fbcrack #bruteforce #facebook #mbf #preshak #fbcrack
 
   
 
- ``TOOLS CRACK IJO LUMUT KUNING TAI !!!`` 
+ ``FOR EDUCATIONAL PURPOSES ONLY !!!`` 
 
- ``YANG ASLI YANG ADA KELINCINYA 🐰``
+ ``HELLO I AM PROX-GOD AKAA PRESHAK 🐰``
 
- <h5 align="left">CARA INSTALL SCRIPT:</h5> 
-
-  
-
-     $ pkg update && pkg upgrade 
+ <h5 align="left">INSTALL SCRIPT:</h5> 
 
   
 
-     $ pkg install python git 
+      pkg update && pkg upgrade 
+
+  
+
+      pkg install python git 
 
       
 
-     $ rm -rf prohack 
+      rm -rf LAMP 
 
   
 
-     $ git clone https://github.com/shinoby10/prohack 
+      git clone https://github.com/PROX-GOD/LAMP
 
   
 
   
 
-     $ cd prohack 
+      cd prohack 
 
       
 
-     $ git pull 
+      git pull 
 
   
 
-     $ python run.py 
+     python run.py 
 
   
 
- <h5 align="left">UNTUK MENDAPATKAN UPDATE SCRIPT SETIAP HARINYA KETIK PERINTAH:</h5> 
-
-  
-
-     $ git pull 
-
-      
-
- - Oke sekarang script sudah berhasil di ```install``` 
-
-  
-
- <h5 align="left">CARA MENJALANKAN SCRIPT:</h5> 
-
-  
-
- sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini 
-
-  
-
-     $ cd $HOME/prohack 
+ <h5 align="left">FOR INSTALLATION OF WHOLE CMD:</h5> 
 
   
 
      $ git pull 
 
-  
+      
 
-     $ python run.py 
-
-  
-
- - Notice me: ```Anda bisa memberikan sedikit donasi paling tidak 200k per orang 🤣 ``` <a href="https://wa.me/+6289522066222">Klik disini</a> 
+ - FOR UPDATING SCRIPT USE THIS CMD ```INSTALL``` 
 
   
 
- - Notice me: ```Gunakan Lah Dengan Bijak Agar Method Tidak Gampang Mokad!!!``` 
+ <h5 align="left">INSTALL SCRIPT:</h5> 
+
+  
+[+] COPY FOR RUNNIMG ```MAIN COMMAMD``` USE 4G NTC DATA
+
+  
+
+      cd $HOME/LAMP
+
+  
+
+      git pull 
+
+  
+
+      python run.py 
+
+  
+
+ [+] NOTICE :  ```YOU CAN BUY THIS SC FOR RS 150 A MONTH OR OPEN SOURCE AT 300``` <a href="https://wa.me/+9745477990">CLICK HERE TO BUY</a> 
+
+  
+
+  [+] WARNING : ```THIS TOOL IS JUST FOR EDUCATIONAL PURPOSES AND OWNER WONT BE RESPONSIBLE FOR ANY HARM.``` 
+ 
 
   
 
  <h5 align="left">LOGIN COOKIE:</h5> 
 
-  
+  [+] NOTICE : ```YOU CAN LOGIN WITH COOKIE IN FILE MAKING SC ``` 
 
- - Notice me: ```Hasil crack banyak atau sedikit nya tergantung target yang di dapatkan.``` 
-
-  
 
  <h5 align="left">catatan:</h5> 
 
   
 
- gunakanlah dengan ```bijak,``` atas apapun yang terjadi admin tidak ```bertanggung jawab.``` 
+ USE   ```PROXY,``` AND ```AEROPLANE MOD.``` IF ID DIDNT CAME
 
   
 
- <h5 align="left">Thanks for <a href="https://github.com/rabbittechnologi">Rabbit Tech</a> and <a href="https://github.com/VinzSector">Hemker Martabak</a></h5> 
+ <h5 align="left">Thanks for <a href="https://github.com/Dapunta">SIR.DAPUNTA</a> 
 
   
 
- - Spesial thanks to: ```All author script kiddie indonesia.```
+ - SPECIAL THANKS TO: ```MR. SAJJAN.```
 
 # MENU CRACK
 
- ![IMG_20220610_041117](https://raw.githubusercontent.com/shinoby10/private/main/IMG_20230521_165600.jpg)
-
+<a href="https://ibb.co/9tNbybz"><img src="https://i.ibb.co/q5dNmNX/Screenshot-20230521-111735-Termux.jpg" alt="Screenshot-20230521-111735-Termux" border="0"></a>
  
 
- # MENU DUMP
-
- ![IMG_20220610_041117](https://raw.githubusercontent.com/shinoby10/private/main/IMG_20230521_165826.jpg)
-
+ # MENU FILE MAKE
+<a href="https://ibb.co/7vNcwVZ"><img src="https://i.ibb.co/VVpy7Dz/1684737867970.jpg" alt="1684737867970" border="0"></a>
  
 
- # METHODE LOGIN
+ # METHOD FILE CLONE 
 
- ![IMG_20220610_041117](https://raw.githubusercontent.com/shinoby10/private/main/IMG_20230521_165532.jpg)
-
+ <a href="https://ibb.co/D9txcRP"><img src="https://i.ibb.co/HtVWwHL/Screenshot-20230522-122439-Termux.jpg" alt="Screenshot-20230522-122439-Termux" border="0"></a>
+ 
  
 
  # HASIL CRACK NEW ID
@@ -126,4 +120,4 @@
 
  # HASIL CRACK OLD ID
 
- ![IMG_20220610_041117](https://raw.githubusercontent.com/shinoby10/private/main/IMG_20230521_172008.jpg)
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/BcCNWYq/IMG-20230507-WA0027.jpg" alt="IMG-20230507-WA0027" border="0"></a>
