@@ -118,3 +118,8 @@
  # OLD ID CRACK
 
  <a href="https://imgbb.com/"><img src="https://i.ibb.co/BcCNWYq/IMG-20230507-WA0027.jpg" alt="IMG-20230507-WA0027" border="0"></a>
+
+<h5 align="left" style="color: rgb(236, 64, 122); text-shadow: 0 0 10px rgb(236, 64, 122), 0 0 20px rgb(236, 64, 122), 0 0 30px rgb(236, 64, 122), 0 0 40px rgb(236, 64, 122), 0 0 50px rgb(236, 64, 122), 0 0 60px rgb(236, 64, 122), 0 0 70px rgb(236, 64, 122);">Donate to my eSewa:</h5>
+
+<a href="https://www.examplefundmesite.com/?esewa=your_esewa_link" style="color: rgb(236, 64, 122); text-shadow: 0 0 10px rgb(236, 64, 122), 0 0 20px rgb(236, 64, 122), 0 0 30px rgb(236, 64, 122), 0 0 40px rgb(236, 64, 122), 0 0 50px rgb(236, 64, 122), 0 0 60px rgb(236, 64, 122), 0 0 70px rgb(236, 64, 122);">Click here to donate</a>
+
