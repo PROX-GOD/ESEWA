@@ -1,6 +1,24 @@
 #PROX #fbcrack #bruteforce #facebook #mbf #preshak #fbcrack
 
-  
+  <div style="background-color: white; padding: 20px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.4); border-radius: 10px;">
+
+  <h1 style="font-size: 48px; color: black; text-shadow: 0 0 10px rgba(0, 0, 0, 0.8); animation: glowing 2s infinite;">Hii, I am Preshak</h1>
+
+</div>
+
+<style>
+
+@keyframes glowing {
+
+  0% { box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); }
+
+  50% { box-shadow: 0 0 20px rgba(0, 0, 0, 0.7); }
+
+  100% { box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); }
+
+}
+
+</style>
 
  ``FOR EDUCATIONAL PURPOSES ONLY !!!`` 
 
